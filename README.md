@@ -39,7 +39,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Java, everytime, everywhere
+drinking beer and getting pension helmets
 ```
 <!--END_SECTION:waka-->
 
