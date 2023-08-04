@@ -9,7 +9,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Senior and Teacher of General Sience of Cybersecurity 
-- 🔭 I’m currently working on <a href="https://exploitly.pl/">Exploitly CyberSec Group</a> :grin:
+- 🔭 I’m currently working on <a href="">?</a> :grin:
 - 🌱 I’m currently Teacher CyberSec / Python / C#.
 - 💬 Ask me about anything, I won't answer :smile:
 - 📬 How to reach me - please don't sending message's
